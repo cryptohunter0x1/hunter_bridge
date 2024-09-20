@@ -1,0 +1,6 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "decimals": 9,
+  "description": "Synthetic SOL for cross-chain transfers between Solana and Eclipse using Hyperlane."
+}

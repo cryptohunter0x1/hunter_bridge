@@ -1,0 +1,15 @@
+{
+  "solana": {
+    "type": "native",
+    "decimals": 9,
+    "interchainGasPaymaster": "<adresse_IGP_Solana>"
+  },
+  "eclipse": {
+    "type": "synthetic",
+    "decimals": 9,
+    "name": "Solana (testnet)",
+    "symbol": "SOL",
+    "uri": "<URL_vers_le_fichier_metadata.json>",
+    "interchainGasPaymaster": "<adresse_IGP_Eclipse>"
+  }
+}
